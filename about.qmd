@@ -1,0 +1,11 @@
+---
+title: "About The Course"
+---
+
+This course was developed to motivate students to think carefully about data-generating processes and how they relate to their hypotheses about their data. We develop a toolbox of specifying and fitting probability models which correspond to particular data-generating processes (including those which are particularly important for environmental data, such as extreme value models), simulating synthetic data from those models, and then using those simulations for model evaluation and comparison.
+
+This course draws upon a large number of resources. Of particular note is the work of [Andrew Gelman](https://sites.stat.columbia.edu/gelman/), including but not limited to [Bayesian Data Analysis, 3rd Edition](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf). We also draw extensively from [Richard McElreath](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/)'s great book [Statistical Rethinking](https://xcelab.net/rm/).
+
+All materials for the course are publicly available and open source, except for assignment solutions (which are removed at the end of each semester). Assignments are also available as Jupyter notebooks in [the GitHub organization for the course](https://github.com/bee-envdata-cornell).
+
+The code and structure of this website were adapted from [John Paul Helveston](https://www.jhelvy.com/)'s course websites.
