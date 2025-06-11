@@ -1,2 +1,3 @@
 # Redirects for semesters
 /spring2024/* https://envdata-sp24.netlify.app/spring2024/:splat 200!
+/spring2025/* https://envdata-sp25.netlify.app/spring2025/:splat 200!
