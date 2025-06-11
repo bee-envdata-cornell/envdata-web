@@ -7,7 +7,7 @@
 4.0](https://img.shields.io/badge/License-CC%20BY--SA-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
 <!-- badges: end -->
 
-This is the course website for [BEE](https://cals.cornell.edu/biological-environmental-engineering) 4850/5850 at [Cornell University](https://cornell.edu). This course focuses on probabilistic modeling of environmental data-generating processes, including simulation methods and model evaluation and selection.
+This is [the course website](https://envdata.viveks.me) for [BEE](https://cals.cornell.edu/biological-environmental-engineering) 4850/5850 at [Cornell University](https://cornell.edu). This course focuses on probabilistic modeling of environmental data-generating processes, including simulation methods and model evaluation and selection.
 
 ## Acknowledgements
 
