@@ -8,7 +8,7 @@ title: "BEE 4850/5850: Environmental Data Analysis & Simulation"
 
 ::: {.g-col-3}
 
-<img src="images/envdata_logo.png" width="200">
+<img src="images/envdata_logo.png" width="100%">
 
 :::
 
