@@ -19,9 +19,9 @@ website:
       - text: "Select Semester"
         menu:
           - text: "Spring 2025"
-            href: https://envdata.viveks.me/spring2025
+            href: https://envdata.viveks.me/spring2025/
           - text: "Spring 2024"
-            href: https://envdata.viveks.me/spring2024
+            href: https://envdata.viveks.me/spring2024/
     right:
       - text: About
         icon: question-circle
